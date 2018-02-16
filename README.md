@@ -1,6 +1,6 @@
 # Future Development Plan
 
-This plan will explain what I want to achieve 
+This plan will detail my plan for the next 10 years and will explain what my goal is for each year and what milestones I will have to complete in order to keep on track to achieving my goal. It also outlines what skill I will need to or will be developing during this time frame. 
 
 
 | Year        | Goal                                             | Skills to Develop                    | Mile Stone                        |
